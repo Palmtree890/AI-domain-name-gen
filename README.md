@@ -17,7 +17,7 @@ Follow these steps to set up and run the AI Domain Name Generator:
 If you haven't already, clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Palmtree890/AI-domain-name-gen/>
 cd ai-DNS-gen
 ```
 
@@ -27,7 +27,7 @@ It's highly recommended to use a virtual environment to manage project dependenc
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate.ps1`
 ```
 
 ### 3. Install Dependencies
