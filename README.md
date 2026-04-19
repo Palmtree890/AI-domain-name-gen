@@ -17,7 +17,7 @@ Follow these steps to set up and run the AI Domain Name Generator:
 If you haven't already, clone this repository to your local machine:
 
 ```bash
-git clone <https://github.com/Palmtree890/AI-domain-name-gen/>
+git clone https://github.com/Palmtree890/AI-domain-name-gen/
 cd ai-DNS-gen
 ```
 
